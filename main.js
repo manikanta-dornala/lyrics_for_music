@@ -6,8 +6,8 @@ MAX_RETRY = 3;
 FOUND = '';
 LAST_SONG = '';
 
-Run();
+setTimeout(Run, 1000);
 
 SetEventListeners();
 
-setInterval(Run, 1000);
+setInterval(Run, 2000);

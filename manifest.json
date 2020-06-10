@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "LyriKa",
-    "version": "1.7.0",
+    "version": "1.7.1",
     "description": "Lyrics for your favorite songs on your favorite sites! Now supports Spotify (Web), Youtube, YT Music and Google Play Music.",
     "content_scripts": [
         {
