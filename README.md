@@ -1,9 +1,9 @@
-LyriKa
-===
+# LyriKa
+
 Lyrics for Youtube, YT Music, Google Play Music and Spotify Web
 
-Installation
----
+## Installation
+
 <div>
     <a href="https://addons.mozilla.org/en-US/firefox/addon/lyrics-for-music" target="_blank">
         <img width="14" height="14" src="https://blog.mozilla.org/firefox/files/2017/12/firefox-logo-300x310.png" alt="Mozilla Firefox Icon"> Mozilla Firefox
@@ -18,16 +18,9 @@ Installation
     </a>  
 </div>
 
-About
----
+## About
 
-Lyrics for your favorite songs on your favorite sites! Now supports Spotify (Web), Youtube, YT Music and Google Play Music. LyriKa pulls lyrics for songs you play on Youtube or Spotify and displays them right there.
+Lyrics for your favorite songs on your favorite sites from <a href="https://musixmatch.com" target="_blank"><img src="https://s.mxmcdn.net/site/images/logo.svg" height="14"></a>. Now supports Spotify (Web), Youtube, YT Music and Google Play Music. LyriKa pulls lyrics for songs you play on Youtube or Spotify and displays them right there.
 
 ![](screenshots/1.png)
 ![](screenshots/2.png)
-
-
-
-
-
-
